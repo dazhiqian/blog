@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 我的 Hugo 网站</title><link>https://dazhiqian.github.io/posts/</link><description>Recent content in Posts on 我的 Hugo 网站</description><generator>Hugo -- 0.136.2</generator><language>zh</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dazhiqian.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Jane Theme Preview</title><link>https://dazhiqian.github.io/posts/asc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/asc/</guid><description>&lt;div class="paragraph">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 我的 Hugo 网站</title><link>https://dazhiqian.github.io/blog/posts/</link><description>Recent content in Posts on 我的 Hugo 网站</description><generator>Hugo -- 0.136.2</generator><language>zh</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dazhiqian.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Jane Theme Preview</title><link>https://dazhiqian.github.io/blog/posts/asc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/asc/</guid><description>&lt;div class="paragraph">
 &lt;p>我的朋友你好吗？&lt;/p>
 &lt;/div>
 &lt;div class="sect1">
@@ -54,7 +54,7 @@
 &lt;div class="content">
 &lt;div class="paragraph">
 &lt;p>Content in an example block is subject to normal substitutions.&lt;/p>
-&lt;/div></description></item><item><title>Code and Table Example</title><link>https://dazhiqian.github.io/posts/code/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/code/</guid><description>&lt;h1 id="code-and-table-example">Code and Table Example&lt;/h1>
+&lt;/div></description></item><item><title>Code and Table Example</title><link>https://dazhiqian.github.io/blog/posts/code/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/code/</guid><description>&lt;h1 id="code-and-table-example">Code and Table Example&lt;/h1>
 &lt;p>This post demonstrates how to write code and tables in Hugo.&lt;/p>
 &lt;h3 id="code-snippets">Code Snippets&lt;/h3>
 &lt;p>Here is a simple code snippet in Python:&lt;/p>
@@ -63,7 +63,7 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> _ &lt;span style="color:#f92672">in&lt;/span> range(n):
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(a)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> a, b &lt;span style="color:#f92672">=&lt;/span> b, a &lt;span style="color:#f92672">+&lt;/span> b
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>KaTeX Example</title><link>https://dazhiqian.github.io/posts/ketex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/ketex/</guid><description>&lt;h1 id="katex-example-post">KaTeX Example Post&lt;/h1>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>KaTeX Example</title><link>https://dazhiqian.github.io/blog/posts/ketex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/ketex/</guid><description>&lt;h1 id="katex-example-post">KaTeX Example Post&lt;/h1>
 &lt;p>This post demonstrates how to write mathematical expressions using KaTeX in Hugo.&lt;/p>
 &lt;h2 id="inline-math">Inline Math&lt;/h2>
 &lt;p>This is an inline equation: ( E = mc^2 )&lt;/p>
@@ -79,7 +79,7 @@ $$&lt;/p>
 a &amp;amp; b \
 c &amp;amp; d
 \end{bmatrix}
-$$&lt;/p></description></item><item><title>List and Quote Example</title><link>https://dazhiqian.github.io/posts/list/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/list/</guid><description>&lt;h1 id="list-and-quote-example">List and Quote Example&lt;/h1>
+$$&lt;/p></description></item><item><title>List and Quote Example</title><link>https://dazhiqian.github.io/blog/posts/list/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/list/</guid><description>&lt;h1 id="list-and-quote-example">List and Quote Example&lt;/h1>
 &lt;p>This post demonstrates how to write lists and blockquotes in Hugo.&lt;/p>
 &lt;h3 id="ordered-list">Ordered List&lt;/h3>
 &lt;ol>
@@ -97,12 +97,12 @@ $$&lt;/p></description></item><item><title>List and Quote Example</title><link>h
 &lt;p>Here is a blockquote:&lt;/p>
 &lt;blockquote>
 &lt;p>&amp;ldquo;The best way to predict the future is to invent it.&amp;rdquo; – Alan Kay&lt;/p>
-&lt;/blockquote></description></item><item><title>数学示例</title><link>https://dazhiqian.github.io/posts/math-ex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/math-ex/</guid><description>&lt;h1 id="数学表达式">数学表达式&lt;/h1>
+&lt;/blockquote></description></item><item><title>数学示例</title><link>https://dazhiqian.github.io/blog/posts/math-ex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/math-ex/</guid><description>&lt;h1 id="数学表达式">数学表达式&lt;/h1>
 &lt;p>这是一个数学块：&lt;/p>
 &lt;p>$$
 \varphi = 1 + \frac{1}{1 + \frac{1}{1 + \frac{1}{1 + \cdots}}}
 $$&lt;/p>
-&lt;p>您还可以写入行内数学，例如：( E = mc^2 )。&lt;/p></description></item><item><title>Second Post</title><link>https://dazhiqian.github.io/posts/2-post/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/2-post/</guid><description>&lt;h1 id="second-post">Second Post&lt;/h1>
+&lt;p>您还可以写入行内数学，例如：( E = mc^2 )。&lt;/p></description></item><item><title>Second Post</title><link>https://dazhiqian.github.io/blog/posts/2-post/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/2-post/</guid><description>&lt;h1 id="second-post">Second Post&lt;/h1>
 &lt;p>This is my second post. In this post, I&amp;rsquo;ll demonstrate how easy it is to write content using Markdown with Hugo.&lt;/p>
 &lt;h3 id="markdown-syntax">Markdown Syntax&lt;/h3>
 &lt;p>You can use &lt;strong>bold&lt;/strong> text, &lt;em>italic&lt;/em> text, and &lt;code>inline code&lt;/code>. You can also create lists:&lt;/p>
@@ -116,11 +116,11 @@ $$&lt;/p>
 &lt;li>Step one&lt;/li>
 &lt;li>Step two&lt;/li>
 &lt;li>Step three&lt;/li>
-&lt;/ol></description></item><item><title>First Post</title><link>https://dazhiqian.github.io/posts/1-post/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/1-post/</guid><description>&lt;h1 id="first-post">First Post&lt;/h1>
+&lt;/ol></description></item><item><title>First Post</title><link>https://dazhiqian.github.io/blog/posts/1-post/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/1-post/</guid><description>&lt;h1 id="first-post">First Post&lt;/h1>
 &lt;p>Welcome to my first blog post on this Hugo site! Hugo is a powerful static site generator that allows you to build fast, modern websites with ease.&lt;/p>
 &lt;p>Here are some highlights of Hugo:&lt;/p>
 &lt;ul>
 &lt;li>Fast build times&lt;/li>
 &lt;li>Flexible templates&lt;/li>
 &lt;li>Great for blogs and documentation&lt;/li>
-&lt;/ul></description></item><item><title>Markdown Syntax Guide</title><link>https://dazhiqian.github.io/posts/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/markdown-syntax/</guid><description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description></item><item><title>Code Syntax Guide</title><link>https://dazhiqian.github.io/posts/code_syntax/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/code_syntax/</guid><description>Sample article showcasing basic code syntax and formatting for HTML elements.</description></item><item><title>Rich Content and Shortcodes</title><link>https://dazhiqian.github.io/posts/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/rich-content/</guid><description>A brief description of Hugo Shortcodes</description></item><item><title>Math Typesetting</title><link>https://dazhiqian.github.io/posts/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/math-typesetting/</guid><description>A brief guide to setup KaTeX</description></item><item><title>Emoji Support</title><link>https://dazhiqian.github.io/posts/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/posts/emoji-support/</guid><description>Guide to emoji usage in Hugo</description></item></channel></rss>
+&lt;/ul></description></item><item><title>Markdown Syntax Guide</title><link>https://dazhiqian.github.io/blog/posts/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/markdown-syntax/</guid><description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description></item><item><title>Code Syntax Guide</title><link>https://dazhiqian.github.io/blog/posts/code_syntax/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/code_syntax/</guid><description>Sample article showcasing basic code syntax and formatting for HTML elements.</description></item><item><title>Rich Content and Shortcodes</title><link>https://dazhiqian.github.io/blog/posts/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/rich-content/</guid><description>A brief description of Hugo Shortcodes</description></item><item><title>Math Typesetting</title><link>https://dazhiqian.github.io/blog/posts/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/math-typesetting/</guid><description>A brief guide to setup KaTeX</description></item><item><title>Emoji Support</title><link>https://dazhiqian.github.io/blog/posts/emoji-support/</link><pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><guid>https://dazhiqian.github.io/blog/posts/emoji-support/</guid><description>Guide to emoji usage in Hugo</description></item></channel></rss>
