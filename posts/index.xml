@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 稻草投资</title><link>https://www.v2run.com/posts/</link><description>Recent content in Posts on 稻草投资</description><generator>Hugo -- 0.136.2</generator><language>zh-cn</language><lastBuildDate>Mon, 21 Oct 2024 14:49:06 +0800</lastBuildDate><atom:link href="https://www.v2run.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My Asciidoc Article</title><link>https://www.v2run.com/posts/asciidoc-article/</link><pubDate>Mon, 21 Oct 2024 14:49:06 +0800</pubDate><guid>https://www.v2run.com/posts/asciidoc-article/</guid><description>&lt;div id="preamble">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 稻草投资</title><link>https://www.v2run.com/posts/</link><description>Recent content in Posts on 稻草投资</description><generator>Hugo -- 0.136.2</generator><language>zh-cn</language><lastBuildDate>Mon, 21 Oct 2024 14:49:06 +0800</lastBuildDate><atom:link href="https://www.v2run.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My Asciidoc Article</title><link>https://www.v2run.com/posts/asciidoc-article/</link><pubDate>Mon, 21 Oct 2024 14:49:06 +0800</pubDate><guid>https://www.v2run.com/posts/asciidoc-article/</guid><description>&lt;div class="sect1">
+&lt;h2 id="_my_asciidoc_article">My Asciidoc Article&lt;/h2>
 &lt;div class="sectionbody">
 &lt;!-- toc disabled -->
 &lt;/div>
@@ -22,16 +23,7 @@
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;strong>强调文本&lt;/strong> 和 &lt;strong>加粗文本&lt;/strong> 也很容易实现。&lt;/p>
-&lt;/div></description></item><item><title>Code and Table Example</title><link>https://www.v2run.com/posts/code/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.v2run.com/posts/code/</guid><description>&lt;h1 id="code-and-table-example">Code and Table Example&lt;/h1>
-&lt;p>This post demonstrates how to write code and tables in Hugo.&lt;/p>
-&lt;h3 id="code-snippets">Code Snippets&lt;/h3>
-&lt;p>Here is a simple code snippet in Python:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">fibonacci&lt;/span>(n):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> a, b &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>, &lt;span style="color:#ae81ff">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> _ &lt;span style="color:#f92672">in&lt;/span> range(n):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(a)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> a, b &lt;span style="color:#f92672">=&lt;/span> b, a &lt;span style="color:#f92672">+&lt;/span> b
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>KaTeX Example</title><link>https://www.v2run.com/posts/ketex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.v2run.com/posts/ketex/</guid><description>&lt;h1 id="katex-example-post">KaTeX Example Post&lt;/h1>
+&lt;/div></description></item><item><title>KaTeX Example</title><link>https://www.v2run.com/posts/ketex/</link><pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.v2run.com/posts/ketex/</guid><description>&lt;h1 id="katex-example-post">KaTeX Example Post&lt;/h1>
 &lt;p>This post demonstrates how to write mathematical expressions using KaTeX in Hugo.&lt;/p>
 &lt;h2 id="inline-math">Inline Math&lt;/h2>
 &lt;p>This is an inline equation: ( E = mc^2 )&lt;/p>
