@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.v2run.com/categories/</loc>
+    <lastmod>2024-10-25T11:45:06+08:00</lastmod>
+  </url><url>
+    <loc>https://www.v2run.com/tags/fonts/</loc>
+    <lastmod>2024-10-25T11:45:06+08:00</lastmod>
+  </url><url>
+    <loc>https://www.v2run.com/categories/fonts/</loc>
+    <lastmod>2024-10-25T11:45:06+08:00</lastmod>
+  </url><url>
     <loc>https://www.v2run.com/posts/</loc>
     <lastmod>2024-10-25T11:45:06+08:00</lastmod>
   </url><url>
+    <loc>https://www.v2run.com/tags/</loc>
+    <lastmod>2024-10-25T11:45:06+08:00</lastmod>
+  </url><url>
     <loc>https://www.v2run.com/</loc>
+    <lastmod>2024-10-25T11:45:06+08:00</lastmod>
+  </url><url>
+    <loc>https://www.v2run.com/posts/fonts/</loc>
     <lastmod>2024-10-25T11:45:06+08:00</lastmod>
   </url><url>
     <loc>https://www.v2run.com/tags/asciidoc/</loc>
@@ -17,13 +32,7 @@
     <loc>https://www.v2run.com/categories/asciidoctor/</loc>
     <lastmod>2024-10-21T14:49:06+08:00</lastmod>
   </url><url>
-    <loc>https://www.v2run.com/categories/</loc>
-    <lastmod>2024-10-21T14:49:06+08:00</lastmod>
-  </url><url>
     <loc>https://www.v2run.com/tags/syntax/</loc>
-    <lastmod>2024-10-21T14:49:06+08:00</lastmod>
-  </url><url>
-    <loc>https://www.v2run.com/tags/</loc>
     <lastmod>2024-10-21T14:49:06+08:00</lastmod>
   </url><url>
     <loc>https://www.v2run.com/search/</loc>
